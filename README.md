@@ -45,7 +45,7 @@ var sourceHanSansUtf32MapJp = require('shinnn/source-han-sans-utf32-map-jp');
 
 #### Standalone
 
-[Download the script file directly.](https://raw.githubusercontent.com/shinnn/scripts/source-han-sans-utf32-map-jp/master/scripts/source-han-sans-utf32-map-jp.js)
+[Download the script file directly.](https://raw.githubusercontent.com/shinnn/source-han-sans-utf32-map-jp/master/scripts/source-han-sans-utf32-map-jp.js)
 
 ### API
 
