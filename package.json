@@ -1,6 +1,6 @@
 {
   "name": "source-han-sans-utf32-map-jp",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return Source Han Sans UTF-32 mappings for Japanese",
   "main": "./scripts/source-han-sans-utf32-map-jp-cjs.js",
   "files": [
